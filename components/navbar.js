@@ -75,7 +75,7 @@ const NavBar = props => {
         </LinkItem>
         <LinkItem
             target="_blank"
-            href="https://github.com/mendex94/mndx-homepage-v2"
+            href="https://github.com/mendex94/mndx-homepagev2"
             path={path}
             display="inline-flex"
             alignItems="center"
@@ -105,7 +105,7 @@ const NavBar = props => {
         <NextLink href='/posts' passHref>
         <MenuItem as={Link}>Posts</MenuItem>
         </NextLink>
-        <MenuItem as={Link} href='https://github.com/mendex94/mndx-homepage-v2'>Source</MenuItem>
+        <MenuItem as={Link} href='https://github.com/mendex94/mndx-homepagev2'>Source</MenuItem>
         </MenuList>
         </Menu>
         </Box>
